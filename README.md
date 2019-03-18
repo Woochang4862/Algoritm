@@ -1,2 +1,2 @@
-# Sort_C
+# Algorithm
 Sort Algorithm
